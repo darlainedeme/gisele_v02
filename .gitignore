@@ -1,1 +1,2 @@
-/general_input/ss_data_Thuso.csv
+venv/
+*.egg-info/
